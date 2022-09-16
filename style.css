@@ -37,14 +37,12 @@ a {
 .bg-1 {
     background-color: #ffffff;
     color: #555555;
-    height: 75%;
     align-items: center;
 }
 
 .bg-2 {
     background-color: #60b0f4;
     color: #ffffff;
-    height: 100%;
 }
 
 .card {
@@ -91,4 +89,8 @@ a {
 
 .colorscheme-text {
     color: #60b0f4;
+}
+
+.font-weight {
+    font-weight: 700;
 }
