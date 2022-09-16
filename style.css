@@ -43,6 +43,7 @@ a {
 .bg-2 {
     background-color: #60b0f4;
     color: #ffffff;
+    min-height: 100%;
 }
 
 .card {
