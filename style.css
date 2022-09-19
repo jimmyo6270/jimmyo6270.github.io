@@ -98,5 +98,7 @@ a {
 
 .name {
     background-color: #60b0f4;
-    border-radius: 35px;
+    padding-bottom: 20px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
 }
