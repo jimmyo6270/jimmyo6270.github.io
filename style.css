@@ -97,7 +97,7 @@ a {
 }
 
 .name {
-    color: #f5f6f7;
+    color: rgba(255,255,255,.8);
     background-color: #60b0f4;
     padding-bottom: 20px;
     border-bottom-left-radius: 35px;
